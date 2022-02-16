@@ -1,0 +1,16 @@
+D:\C#\Work6\Work6\bin\Debug\net5.0\Work6.exe
+D:\C#\Work6\Work6\bin\Debug\net5.0\Work6.deps.json
+D:\C#\Work6\Work6\bin\Debug\net5.0\Work6.runtimeconfig.json
+D:\C#\Work6\Work6\bin\Debug\net5.0\Work6.runtimeconfig.dev.json
+D:\C#\Work6\Work6\bin\Debug\net5.0\Work6.dll
+D:\C#\Work6\Work6\bin\Debug\net5.0\ref\Work6.dll
+D:\C#\Work6\Work6\bin\Debug\net5.0\Work6.pdb
+D:\C#\Work6\Work6\obj\Debug\net5.0\Work6.csproj.AssemblyReference.cache
+D:\C#\Work6\Work6\obj\Debug\net5.0\Work6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Work6\Work6\obj\Debug\net5.0\Work6.AssemblyInfoInputs.cache
+D:\C#\Work6\Work6\obj\Debug\net5.0\Work6.AssemblyInfo.cs
+D:\C#\Work6\Work6\obj\Debug\net5.0\Work6.csproj.CoreCompileInputs.cache
+D:\C#\Work6\Work6\obj\Debug\net5.0\Work6.dll
+D:\C#\Work6\Work6\obj\Debug\net5.0\ref\Work6.dll
+D:\C#\Work6\Work6\obj\Debug\net5.0\Work6.pdb
+D:\C#\Work6\Work6\obj\Debug\net5.0\Work6.genruntimeconfig.cache

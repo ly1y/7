@@ -1,0 +1,16 @@
+D:\C#\Work6\ss\bin\Debug\net5.0\ss.exe
+D:\C#\Work6\ss\bin\Debug\net5.0\ss.deps.json
+D:\C#\Work6\ss\bin\Debug\net5.0\ss.runtimeconfig.json
+D:\C#\Work6\ss\bin\Debug\net5.0\ss.runtimeconfig.dev.json
+D:\C#\Work6\ss\bin\Debug\net5.0\ss.dll
+D:\C#\Work6\ss\bin\Debug\net5.0\ref\ss.dll
+D:\C#\Work6\ss\bin\Debug\net5.0\ss.pdb
+D:\C#\Work6\ss\obj\Debug\net5.0\ss.csproj.AssemblyReference.cache
+D:\C#\Work6\ss\obj\Debug\net5.0\ss.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Work6\ss\obj\Debug\net5.0\ss.AssemblyInfoInputs.cache
+D:\C#\Work6\ss\obj\Debug\net5.0\ss.AssemblyInfo.cs
+D:\C#\Work6\ss\obj\Debug\net5.0\ss.csproj.CoreCompileInputs.cache
+D:\C#\Work6\ss\obj\Debug\net5.0\ss.dll
+D:\C#\Work6\ss\obj\Debug\net5.0\ref\ss.dll
+D:\C#\Work6\ss\obj\Debug\net5.0\ss.pdb
+D:\C#\Work6\ss\obj\Debug\net5.0\ss.genruntimeconfig.cache
